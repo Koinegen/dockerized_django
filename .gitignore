@@ -1,0 +1,9 @@
+*.sqlite3
+.idea
+__pycache__
+*.pyc
+#.env.prod    # do not push
+#.env.prod.db # do not push
+# nginx.conf  # do not push
+venv
+debug
